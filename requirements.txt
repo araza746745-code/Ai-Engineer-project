@@ -1,0 +1,6 @@
+pandas 
+numpay
+scikit-learn
+joblib
+fastapi
+uvicorn

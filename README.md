@@ -209,4 +209,39 @@ The trained model is saved using Joblib as:
 ### 1. Install dependencies
 
 ```bash
+pip install -r requirements.txtgit stautus
+
+### API Documentation
+
+After starting the API, open:
+
+http://127.0.0.1:8000/docs
+
+This opens the interactive Swagger UI for testing the prediction API.
+
+---
+
+## 📊 Model Performance
+
+The model was evaluated using:
+
+- MAE (Mean Absolute Error)
+- R² Score
+
+### Evaluation Results
+
+- MAE: 0.7037
+- R² Score: 0.9999999998
+
+The trained model is saved using Joblib as:
+
+`sales_model.pkl`
+
+---
+
+## ▶️ How to Run
+
+### 1. Install dependencies
+
+```bash
 pip install -r requirements.txt

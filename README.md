@@ -1,4 +1,4 @@
-# 🤖 AI Engineer – Sales Prediction System
+# 🤖 AI-powered Sales Prediction System
 
 > An end-to-end Machine Learning application for predicting sales revenue, with a REST API built using FastAPI.
 

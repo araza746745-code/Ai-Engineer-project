@@ -273,3 +273,17 @@ The trained model is saved using Joblib as:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 🚀 Live Deployment
+
+The Sales Prediction API is deployed using Docker and Render.
+
+**Live API:**  
+https://sales-prediction-api-latest.onrender.com
+
+**API Documentation:**  
+https://sales-prediction-api-latest.onrender.com/docs
+
+> Note: The free Render instance may take some time to wake up after inactivity.

@@ -11,6 +11,34 @@ This project demonstrates an end-to-end AI/ML workflow, starting from data prepa
 The system is designed to take input features, process them through the trained machine learning model, and return a predicted sales amount through a REST API.
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+- Python
+- Pandas
+- NumPy
+
+### Machine Learning
+- Scikit-learn
+- Linear Regression
+- Joblib
+
+### API Development
+- FastAPI
+- Uvicorn
+- REST API
+
+### Deployment & DevOps
+- Docker
+- Docker Hub
+- Render
+
+### Version Control
+- Git
+- GitHub
+
 
 ## 🎯 Problem Statement
 
